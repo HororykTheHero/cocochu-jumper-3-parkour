@@ -1,0 +1,30 @@
+{
+    "name": "Cocochu Jumper 3 Parkour",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.22",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.8.11",
+        "tag": "v0.8.11",
+        "commits": "https://github.com/Microsoft/pxt-arcade/commits/4fd9b141be74c8d0598da91bb0e9a62e81cd039b",
+        "target": "1.12.61",
+        "pxt": "5.6.8",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
